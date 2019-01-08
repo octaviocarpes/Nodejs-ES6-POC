@@ -1,0 +1,28 @@
+{
+  "name": "Nodejs-ES6-POC",
+  "version": "1.0.0",
+  "description": "A minor proof of concept to practice es6 with babel and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octaviocarpes/Nodejs-ES6-POC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/octaviocarpes/Nodejs-ES6-POC/issues"
+  },
+  "homepage": "https://github.com/octaviocarpes/Nodejs-ES6-POC#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "rxjs": "^6.3.3"
+  }
+}
